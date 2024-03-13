@@ -1,3 +1,4 @@
-# Dashboard Project
+## Dashboard Project
 
--- remove materialUI if not needed
+# Dashboard Image
+![Example Image](dashboard.png)
